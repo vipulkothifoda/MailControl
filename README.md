@@ -7,4 +7,4 @@ Please follow the below steps
 3. Run the mailcontrol.rb recipe by using the below command:
      sudo chef-client --local-mode mailcontrol.rb
 4. You can also run the cookbook by using the run list with the below command:
-      sudo chef-client -z -r "recipe[MailControl"
+      sudo chef-client -z -r "recipe[mailcontrol"
