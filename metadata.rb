@@ -1,6 +1,6 @@
 name 'mailcontrol'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Vipul Kothifoda'
+maintainer_email 'vkothifo@hawk.iit.edu'
 license 'all_rights'
 description 'Installs/Configures mailcontrol'
 long_description 'Installs/Configures mailcontrol'
